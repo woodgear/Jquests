@@ -1,0 +1,2 @@
+# Jquests
+Jquests的是一个操作体验类似python的requests的用于爬虫的基于httpurlconnection的Java类库  是OpenApi的组成部分
